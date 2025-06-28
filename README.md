@@ -20,4 +20,4 @@ A basic, responsive calculator built with **HTML**, **CSS**, and **Vanilla JavaS
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone https://github.com/fira7488/simple-calculator.git
